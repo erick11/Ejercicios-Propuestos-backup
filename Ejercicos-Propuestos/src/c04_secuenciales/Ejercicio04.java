@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio04 {
 
-        /*
+        /**
           04) 
           Dada una cantidad expresada en pies, y otra en metros. Determinar la
           suma pero convertida a pulgadas, a yardas, a metros y a millas. Considere

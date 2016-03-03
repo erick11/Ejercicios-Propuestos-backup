@@ -6,11 +6,11 @@ import javax.lang.model.type.PrimitiveType;
 
 public class Ejercicio07 {
 
-	/*
-	 * Dado dos números enteros de 3 cifras, se desea saber la suma de sus
-	 * cifras correspondientes a las unidades, la suma de sus cifras
-	 * correspondientes a las decenas y la suma de sus cifras correspondientes a
-	 * las centenas.
+	/**
+	  Dado dos números enteros de 3 cifras, se desea saber la suma de sus
+	  cifras correspondientes a las unidades, la suma de sus cifras
+	  correspondientes a las decenas y la suma de sus cifras correspondientes a
+	  las centenas.
 	 */
 
 	public static void main(String[] args) {

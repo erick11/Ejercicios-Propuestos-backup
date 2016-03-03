@@ -2,7 +2,7 @@ package c04_secuenciales;
 import java.util.Scanner;
 
 public class Ejercicio03 {
-        /*
+        /**
          03) Aplicando el teorema de Pitágoras determinar el valor de la hipotenusa 
                  de un triangulo rectángulo, el perímetro y el área de dicho triangulo 
                  conociendo solamente el valor de los catetos.

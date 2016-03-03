@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class Ejercicio06 {
 
-        /*
-         * 06) Una clínica ha recibido una donación en dólares que debe ser
-         * repartida entre sus servicios de atención, de la siguiente manera:
-         * Medicina general,50% de la donación 
-         * Ginecología, 30% de la donación 
-         * Pediatría, 30% del monto recibido por Medicina general 
-         * Traumatología, lo que resta de la donación //...........................................
+        /**
+          06) Una clínica ha recibido una donación en dólares que debe ser
+          repartida entre sus servicios de atención, de la siguiente manera:
+          Medicina general,50% de la donación 
+          Ginecología, 30% de la donación 
+          Pediatría, 30% del monto recibido por Medicina general 
+          Traumatología, lo que resta de la donación //...........................................
          */
 
         public static void main(String[] args) {

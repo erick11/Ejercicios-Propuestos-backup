@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Ejercicio01 {
 
-        /*
+        /**
          Convertir grados centígrados a grados farenheit considerando la siguiente 
          formula:  
          F = 1.8 * C + 32 //........................................... 

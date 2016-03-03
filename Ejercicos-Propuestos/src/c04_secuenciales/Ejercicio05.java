@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Ejercicio05 {
 
-        /*
-         * 05) Dada una cantidad expresada en euros, y otra en soles. Determinar la
-         * suma pero convertida a dólares, a marcos, a soles y a yenes. Considere
-         * las siguientes equivalencias: 1dólar = 0.76 euros 1dólar = 1.45 marcos
-         * 1dólar = 3.35 soles 1dólar = 0.075 yenes
+        /**
+          05) Dada una cantidad expresada en euros, y otra en soles. Determinar la
+          suma pero convertida a dólares, a marcos, a soles y a yenes. Considere
+          las siguientes equivalencias: 1dólar = 0.76 euros 1dólar = 1.45 marcos
+          1dólar = 3.35 soles 1dólar = 0.075 yenes
          */
         public static void main(String[] args) {
                 

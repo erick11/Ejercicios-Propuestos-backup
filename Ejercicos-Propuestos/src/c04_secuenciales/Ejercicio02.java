@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio02 {
 
-        /*
+        /**
          La nota final de un curso de programación se obtiene de acuerdo a las 
          siguientes formulas:  
 
